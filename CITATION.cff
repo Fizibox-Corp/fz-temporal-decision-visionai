@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper."
+title: "Did It Change? Two-Frame Temporal Verification Makes a 2B Vision-Language Model a Practical Fire and Smoke Alarm on Edge NPUs"
+authors:
+  - family-names: Nguyen
+    given-names: Thanh
+    email: thanh@fizibox.com
+    affiliation: Fizibox Research Team
+year: 2026
+license: MIT
+repository-code: "https://github.com/Fizibox-Corp/fz-temporal-decision-visionai"
