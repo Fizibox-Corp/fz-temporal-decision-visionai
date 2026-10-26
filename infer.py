@@ -1,4 +1,4 @@
-"""Two-frame fire/smoke verification with FZ-Verdict-2B-Temporal.
+"""Two-frame fire/smoke verification with FZ-Temporal-Decision-VisionAI-2B.
 
 The earlier frame goes into temporal slot 0 of the Qwen2-VL vision patch, the current frame into slot 1.
 Each question is answered by the softmax over its option letters at the answer position.
@@ -15,7 +15,7 @@ import torch
 from PIL import Image
 from transformers import AutoProcessor, Qwen2VLForConditionalGeneration
 
-DEFAULT_MODEL = "Fizibox-Corp/FZ-Verdict-2B-Temporal"
+DEFAULT_MODEL = "Fizibox-Corp/FZ-Temporal-Decision-VisionAI-2B"
 SIZE = 224
 LETTERS = "ABC"
 

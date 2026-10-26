@@ -1,11 +1,11 @@
 # fz-temporal-decision-visionai
 
-Reference code for **FZ-Verdict-2B-Temporal**, a 2B vision-language model that decides whether a CCTV view shows a
+Reference code for **FZ-Temporal-Decision-VisionAI-2B**, a 2B vision-language model that decides whether a CCTV view shows a
 real fire or fire smoke by looking at **two moments at once**: the current frame and the same view about one second
 earlier, packed into the temporal patch slot of the Qwen2-VL vision encoder (no extra vision compute).
 
 Paper: *Did It Change? Two-Frame Temporal Verification Makes a 2B Vision-Language Model a Practical Fire and Smoke
-Alarm on Edge NPUs* (arXiv link TODO). Model: [Fizibox-Corp/FZ-Verdict-2B-Temporal](https://huggingface.co/Fizibox-Corp/FZ-Verdict-2B-Temporal) (TODO).
+Alarm on Edge NPUs* (arXiv link TODO). Model: [Fizibox-Corp/FZ-Temporal-Decision-VisionAI-2B](https://huggingface.co/Fizibox-Corp/FZ-Temporal-Decision-VisionAI-2B).
 
 ## What the model answers
 
