@@ -5,7 +5,8 @@ real fire or fire smoke by looking at **two moments at once**: the current frame
 earlier, packed into the temporal patch slot of the Qwen2-VL vision encoder (no extra vision compute).
 
 Paper: *Did It Change? Two-Frame Temporal Verification Makes a 2B Vision-Language Model a Practical Fire and Smoke
-Alarm on Edge NPUs* (arXiv link TODO). Model: [Fizibox-Corp/FZ-Temporal-Decision-VisionAI-2B](https://huggingface.co/Fizibox-Corp/FZ-Temporal-Decision-VisionAI-2B).
+Alarm on Edge NPUs* (Thanh Nguyen, Fizibox Research Team, Vietnam; arXiv 2026, link added on announcement).
+Model: [Fizibox-Corp/FZ-Temporal-Decision-VisionAI-2B](https://huggingface.co/Fizibox-Corp/FZ-Temporal-Decision-VisionAI-2B).
 
 ## What the model answers
 
