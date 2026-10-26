@@ -6,6 +6,7 @@ authors:
     given-names: Thanh
     email: thanh@fizibox.com
     affiliation: Fizibox Research Team
+    country: VN
 year: 2026
 license: MIT
 repository-code: "https://github.com/Fizibox-Corp/fz-temporal-decision-visionai"
