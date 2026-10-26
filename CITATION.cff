@@ -8,5 +8,6 @@ authors:
     affiliation: Fizibox Research Team
     country: VN
 year: 2026
+doi: 10.5281/zenodo.23661073
 license: MIT
 repository-code: "https://github.com/Fizibox-Corp/fz-temporal-decision-visionai"
