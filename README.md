@@ -23,7 +23,12 @@ from `calib.json`. No text is generated.
 
 ```bash
 pip install -r requirements.txt
+huggingface-cli login
 ```
+
+Model access is gated: accept the terms on the [model page](https://huggingface.co/Fizibox-Corp/FZ-Temporal-Decision-VisionAI-2B)
+first, then log in so `infer.py` can download the weights. ONNX Runtime and OpenVINO exports:
+[FZ-Temporal-Decision-VisionAI-2B-ONNX-OpenVINO](https://huggingface.co/Fizibox-Corp/FZ-Temporal-Decision-VisionAI-2B-ONNX-OpenVINO).
 
 ## Usage
 
