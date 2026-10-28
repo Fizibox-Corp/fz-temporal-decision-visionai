@@ -83,6 +83,8 @@ reference code are not those reported for the product in the paper. Not a certif
 - Code in this repository: MIT (see `LICENSE`).
 - Model weights: CC BY-NC 4.0, research and non-commercial use. No patent rights are granted. For commercial use
   contact thanh@fizibox.com.
+- Access terms of the gated model (accepted on Hugging Face): the model and its outputs must not be used to train,
+  distill, fine-tune or otherwise improve any other model. This applies to scores produced with this code too.
 
 ## Citation
 
